@@ -1,0 +1,23 @@
+PODS:
+  - MZFayeClient (1.0.3):
+    - SocketRocket
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - MZFayeClient (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SocketRocket
+
+EXTERNAL SOURCES:
+  MZFayeClient:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MZFayeClient: db031b68b3b93d31d358e97ef044a827e37f3215
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: c04e7c1ecac5c604dcd7d87888db29a8443fd198
+
+COCOAPODS: 1.5.3
